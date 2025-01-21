@@ -1,0 +1,10 @@
+[package]
+name = "minesweeper"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colored = "3.0.0"
+rand = "0.8.5"
+random = "0.14.0"
+term_size = "0.3.2"

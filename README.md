@@ -1,5 +1,7 @@
 # Minesweeper solver
 
+![screenshot](./assets/minesweeper_solver.png)
+
 This is a simple minesweeper solver.
 
 The code is highly unoptimized. It is just a proof of concept made for fun in a

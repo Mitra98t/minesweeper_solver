@@ -4,8 +4,8 @@ use colored::Colorize;
 use std::{thread, time::Duration};
 
 const DIM_X: usize = 75;
-const DIM_Y: usize = 28;
-const NUM_MINES: usize = 300;
+const DIM_Y: usize = 40;
+const NUM_MINES: usize = 400;
 
 #[derive(Clone, Copy, PartialEq)]
 enum Cell {
